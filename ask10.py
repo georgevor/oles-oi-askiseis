@@ -1,7 +1,7 @@
 import math
 b=[]
 m=[]
-with open("this.txt","r")as f:
+with open("two_cities_ascii.txt","r")as f:
     data=f.read()
     newstring=''
     for char in data:
